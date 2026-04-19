@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.96647e21.css",
+    "main.js": "/your-repo-name/static/js/main.d301d36a.js",
+    "static/js/453.30c51619.chunk.js": "/your-repo-name/static/js/453.30c51619.chunk.js",
+    "static/media/sakshi_dp.jpg": "/your-repo-name/static/media/sakshi_dp.79c89f19f34f6a26030e.jpg",
+    "index.html": "/your-repo-name/index.html",
+    "main.96647e21.css.map": "/your-repo-name/static/css/main.96647e21.css.map",
+    "main.d301d36a.js.map": "/your-repo-name/static/js/main.d301d36a.js.map",
+    "453.30c51619.chunk.js.map": "/your-repo-name/static/js/453.30c51619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96647e21.css",
+    "static/js/main.d301d36a.js"
+  ]
+}
