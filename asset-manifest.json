@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dance-fitness-portfolio/static/css/main.96647e21.css",
-    "main.js": "/dance-fitness-portfolio/static/js/main.2f5a90aa.js",
+    "main.css": "/dance-fitness-portfolio/static/css/main.13921fe1.css",
+    "main.js": "/dance-fitness-portfolio/static/js/main.bcc0291d.js",
     "static/js/453.30c51619.chunk.js": "/dance-fitness-portfolio/static/js/453.30c51619.chunk.js",
     "static/media/sakshi_dp.jpg": "/dance-fitness-portfolio/static/media/sakshi_dp.79c89f19f34f6a26030e.jpg",
     "index.html": "/dance-fitness-portfolio/index.html",
-    "main.96647e21.css.map": "/dance-fitness-portfolio/static/css/main.96647e21.css.map",
-    "main.2f5a90aa.js.map": "/dance-fitness-portfolio/static/js/main.2f5a90aa.js.map",
+    "main.13921fe1.css.map": "/dance-fitness-portfolio/static/css/main.13921fe1.css.map",
+    "main.bcc0291d.js.map": "/dance-fitness-portfolio/static/js/main.bcc0291d.js.map",
     "453.30c51619.chunk.js.map": "/dance-fitness-portfolio/static/js/453.30c51619.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96647e21.css",
-    "static/js/main.2f5a90aa.js"
+    "static/css/main.13921fe1.css",
+    "static/js/main.bcc0291d.js"
   ]
 }
