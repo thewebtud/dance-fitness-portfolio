@@ -1,23 +1,45 @@
-import logo from './logo.svg';
 import './App.css';
+import ClassesSection from './components/ClassesSection';
+import ContactSection from './components/ContactSection';
+import GallerySection from './components/GallerySection';
+import HeroSection from './components/HeroSection';
+import TestimonialsSection from './components/TestimonialsSection';
+import {
+  classes,
+  contactContent,
+  galleryContent,
+  heroContent,
+  highlights,
+  instructorProfile,
+  photoMoments,
+  socials,
+  testimonialContent,
+  testimonials,
+  videos,
+} from './data/siteContent';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app-shell">
+      <HeroSection
+        heroContent={heroContent}
+        highlights={highlights}
+        instructorProfile={instructorProfile}
+      />
+
+      <main>
+        <ClassesSection classes={classes} />
+        <GallerySection
+          galleryContent={galleryContent}
+          photoMoments={photoMoments}
+          videos={videos}
+        />
+        <TestimonialsSection
+          testimonialContent={testimonialContent}
+          testimonials={testimonials}
+        />
+        <ContactSection contactContent={contactContent} socials={socials} />
+      </main>
     </div>
   );
 }
