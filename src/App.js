@@ -3,6 +3,7 @@ import ClassesSection from './components/ClassesSection';
 import ContactSection from './components/ContactSection';
 import GallerySection from './components/GallerySection';
 import HeroSection from './components/HeroSection';
+import ReelsSection from './components/ReelsSection';
 import TestimonialsSection from './components/TestimonialsSection';
 import {
   classes,
@@ -12,6 +13,8 @@ import {
   highlights,
   instructorProfile,
   photoMoments,
+  reels,
+  reelsContent,
   socials,
   testimonialContent,
   testimonials,
@@ -34,6 +37,7 @@ function App() {
           photoMoments={photoMoments}
           videos={videos}
         />
+        <ReelsSection reelsContent={reelsContent} reels={reels} />
         <TestimonialsSection
           testimonialContent={testimonialContent}
           testimonials={testimonials}

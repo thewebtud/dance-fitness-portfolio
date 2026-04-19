@@ -34,7 +34,6 @@ function HeroSection({ heroContent, highlights, instructorProfile }) {
                             alt={instructorProfile.profileImage.alt}
                         />
                     </div>
-                    <span className="profile-badge-caption">Profile photo</span>
                 </div>
 
                 <div className="hero-panel-card">

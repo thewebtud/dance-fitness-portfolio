@@ -1,6 +1,6 @@
 export const heroContent = {
     eyebrow: 'Dance fitness portfolio',
-    brandName: 'rhythm_with_sakshi',
+    brandName: 'Sakshi Mehta',
     description:
         'Sakshi blends expressive dance, cardio conditioning, and feminine stage energy into classes that feel equal parts workout and performance.',
     primaryAction: {
@@ -89,13 +89,43 @@ export const photoMoments = [
 export const videos = [
     {
         title: 'Bollywood cardio teaser',
-        duration: '01:12',
-        embedUrl: 'https://www.youtube.com/embed/KVZ-P-ZI6W4?si=2wF1pclWk8iy5iPQ',
+        duration: '00:49',
+        embedUrl: 'https://www.youtube.com/watch?v=pZ4L0NmoiQ0',
     },
     {
         title: 'Stage routine highlight',
-        duration: '00:58',
-        embedUrl: 'https://www.youtube.com/embed/gCcx85zbxz4?si=I5jM0P7A2fKec7w4',
+        duration: '00:49',
+        embedUrl: 'https://www.youtube.com/watch?v=pZ4L0NmoiQ0',
+    },
+];
+
+export const reelsContent = {
+    eyebrow: 'Instagram reels',
+    title: 'Quick choreography highlights straight from Instagram',
+    supportingText:
+        'A curated reel wall with recent movement clips, performance moments, and short-form dance fitness highlights.',
+};
+
+export const reels = [
+    {
+        title: 'Reel 01',
+        label: '@rhythmwith_sakshi',
+        url: 'https://www.instagram.com/reel/DJ3LxWnTUkA/',
+    },
+    {
+        title: 'Reel 02',
+        label: '@rhythmwith_sakshi',
+        url: 'https://www.instagram.com/reel/DKMebKGJBrV/',
+    },
+    {
+        title: 'Reel 03',
+        label: '@rhythmwith_sakshi',
+        url: 'https://www.instagram.com/reel/DXJNv-rky3M/',
+    },
+    {
+        title: 'Reel 04',
+        label: '@rhythmwith_sakshi',
+        url: 'https://www.instagram.com/reel/DXHmsrGE2qP/',
     },
 ];
 
@@ -131,19 +161,19 @@ export const contactContent = {
     eyebrow: 'Contact and socials',
     title: 'Reach out for workshops, private sessions, and collaborations',
     supportingText:
-        'Based in Mumbai and available for online bookings, studio classes, and event choreography inquiries.',
+        'Based in Gurugram (Sector 57) and available for online bookings, studio classes, and event choreography inquiries.',
     kicker: 'Quick connect',
     cardTitle: 'Let\'s get you dancing',
     email: 'hello@rhythmwithsakshi.com',
-    phone: '+91 98765 43210',
+    phone: '+91 99960 88884',
 };
 
 export const socials = [
     {
         name: 'Instagram',
         icon: 'instagram',
-        handle: '@rhythm_with_sakshi',
-        href: 'https://instagram.com/rhythm_with_sakshi',
+        handle: '@rhythmwith_sakshi',
+        href: 'https://instagram.com/rhythmwith_sakshi',
     },
     {
         name: 'Twitter',
@@ -155,12 +185,12 @@ export const socials = [
         name: 'YouTube',
         icon: 'youtube',
         handle: 'Rhythm With Sakshi',
-        href: 'https://youtube.com/@rhythm_with_sakshi',
+        href: 'https://www.youtube.com/@Sakshimehta2901',
     },
     {
         name: 'WhatsApp',
         icon: 'whatsapp',
-        handle: '+91 98765 43210',
-        href: 'https://wa.me/919876543210',
+        handle: '+91 99960 88884',
+        href: 'https://wa.me/919996088884',
     },
 ];
