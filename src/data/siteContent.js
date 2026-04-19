@@ -60,7 +60,7 @@ export const galleryContent = {
     eyebrow: 'Photos and videos',
     title: 'Snapshots from classes, rehearsals, and stage moments',
     supportingText:
-        'Dummy portfolio content can be replaced later with your own shoots, event stills, class reels, and social snippets.',
+        'A visual tour of the energy, community, and choreography that make up the Rhythm With Sakshi experience.',
 };
 
 export const photoMoments = [
