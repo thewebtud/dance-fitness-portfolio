@@ -1,6 +1,6 @@
 export const heroContent = {
     eyebrow: 'Dance fitness portfolio',
-    brandName: 'rhythm_with_sakshi',
+    brandName: 'Sakshi Mehta',
     description:
         'Sakshi blends expressive dance, cardio conditioning, and feminine stage energy into classes that feel equal parts workout and performance.',
     primaryAction: {

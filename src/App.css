@@ -32,6 +32,8 @@
   font-size: clamp(3.2rem, 10vw, 6.8rem);
   line-height: 0.92;
   letter-spacing: -0.06em;
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 .hero-text {
@@ -502,7 +504,9 @@
   }
 
   .hero-copy h1 {
-    font-size: clamp(2.6rem, 17vw, 4rem);
+    font-size: clamp(2rem, 13vw, 3.1rem);
+    line-height: 1;
+    letter-spacing: -0.04em;
   }
 
   .hero-panel-card,
